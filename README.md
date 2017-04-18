@@ -1,7 +1,12 @@
 # iluminacaoSombreamento
-# iluminacao-sobreamento
+# ubuntu
+#sudo apt-get install freeglut3
+#sudo slapt-get --install freeglut ou sudo apt-get install freeglut
+#para executar e só digitar:
+#gcc fonte.c -o fonte -lglut -lGL -lGLU -lm
+#g++ fonte.cpp -o fonte -lglut -lGL -lGLU -lm
 
-
+# Windows
 #Para rodar um projeto glut no code:blocks
 
 #1 copie os arquivos glu32.dll, glut.dll e glut32.dll no caminho: C:\Windows\System32 e C:\Windows\SysWOW64
