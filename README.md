@@ -1,9 +1,15 @@
 # iluminacaoSombreamento
+
 # ubuntu
+
 #sudo apt-get install freeglut3
+
 #sudo slapt-get --install freeglut ou sudo apt-get install freeglut
+
 #para executar e só digitar:
+
 #gcc fonte.c -o fonte -lglut -lGL -lGLU -lm
+
 #g++ fonte.cpp -o fonte -lglut -lGL -lGLU -lm
 
 # Windows
